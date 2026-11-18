@@ -2,7 +2,7 @@
 
 ## About
 SNAKE.exe is a personal development project created to explore web development, JavaScript programming, game mechanics and interface design.
-**play snake.exe( )**
+**play snake.exe(https://claramirandavie.github.io/snake.exe-1.1/)**
 
 ## Features
 ### Classic Mode
