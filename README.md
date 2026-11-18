@@ -64,7 +64,7 @@ No external game engine required.
 ## Running Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ClaraMirandaVie/snake.exe.git
+   git clone https://github.com/ClaraMirandaVie/snake.exe-1.1.git
    ```
 2. Open the project folder.
 3. Open `index.html` in your browser.
