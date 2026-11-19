@@ -70,6 +70,3 @@ No external game engine required.
 3. Open `index.html` in your browser.
 Alternatively, play directly through the browser using the link above.
 
-## Repository
-GitHub: [ClaraMirandaVie/snake.exe](https://github.com/ClaraMirandaVie/snake.exe)
-
